@@ -15,3 +15,7 @@ Raspberry pi robot.
 * [USB Charger](http://www.amazon.ca/dp/B005X1Y7I2/ref=pe_386430_126088100_TE_item)
 * [Camera](http://www.amazon.ca/dp/B00FGKYHXA/ref=pe_386430_126088100_TE_item)
 * [L298N Motor Drive Controller](http://www.amazon.ca/dp/B00CAG6GX2/ref=pe_386430_126088100_TE_item)
+
+### Video Streaming
+
+* [MJPG-Streamer (jacksonliam fork)](https://github.com/jacksonliam/mjpg-streamer)
